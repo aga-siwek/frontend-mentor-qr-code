@@ -44,7 +44,7 @@ font-size: calc(22rem/16);
 line-height: 1.2;
 color: var(--color-slate-900);
 text-align: center;
-margin-bottom: 1rem;
+margin-bottom: calc(24rem/16)
 }
 
 .qr-container__body {
@@ -53,5 +53,5 @@ margin-bottom: 1rem;
     line-height: 1.4;
     color: var(--color-slate-500);
     text-align: center;
-    margin-top: 1rem;
+    margin-top: calc(24rem/16)
     }
